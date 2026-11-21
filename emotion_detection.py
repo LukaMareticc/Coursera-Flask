@@ -17,7 +17,7 @@ def emotion_detector(text_to_analyze):
     sadness = emotions['sadness']
 
     result = {
-        'anger': anger,S
+        'anger': anger,
         'disgust': disgust,
         'fear': fear,
         'joy': joy,
